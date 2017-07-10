@@ -1,6 +1,6 @@
 {
   "name": "byted-vuedraggable",
-  "version": "2.14.1",
+  "version": "2.14.2",
   "description": "draggable component for vue",
   "main": "dist/vuedraggable.js",
   "files": [
@@ -21,7 +21,7 @@
     "test": "test"
   },
   "dependencies": {
-    "byted-sortablejs": "^1.6.0"
+    "byted-sortablejs": "^1.6.1"
   },
   "devDependencies": {
     "babel-plugin-transform-object-assign": "^6.22.0",
